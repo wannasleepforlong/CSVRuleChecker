@@ -1,0 +1,5 @@
+Rule,Result
+Number of rows should be less than 1000,No
+Customer IDs must be unique,Yes
+Customer names must start with a capital letter,Yes
+Email addresses must contain '@',Yes
