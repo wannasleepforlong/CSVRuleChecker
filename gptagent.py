@@ -10,6 +10,9 @@ df = pd.read_csv(csv_file_path)
 
 hard_rules = [
     "Number of rows should be more than 1000",
+]
+
+csv_rules = [
     "Customer IDs must be unique",
 ]
 

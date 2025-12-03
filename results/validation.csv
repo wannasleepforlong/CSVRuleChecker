@@ -1,5 +1,5 @@
 Rule,Result
-Number of rows should be less than 1000,No
-Customer IDs must be unique,Yes
+Number of rows should be less than 1000,Fail
+Customer IDs must be unique,Pass
 Customer names must start with a capital letter,Fail
 Email addresses must contain '@',Fail

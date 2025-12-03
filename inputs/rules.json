@@ -1,0 +1,10 @@
+{
+    "hard_rules": [
+        "Number of rows should be less than 1000",
+        "Customer IDs must be unique"
+    ],
+    "soft_rules": [
+        "Customer names must start with a capital letter",
+        "Email addresses must contain '@'"
+    ]
+}
